@@ -1,3 +1,4 @@
+<img src="/Irinaborodulina0311/JMeter/raw/main/assert/Apache_JMeter.png" alt="Braydon's GitHub Banner" style="max-width: 100%;">
 Сделать сценарий с перечисленными эндпоинтами
 
 Дать нагрузку на 50, 250, 500 потоков.
